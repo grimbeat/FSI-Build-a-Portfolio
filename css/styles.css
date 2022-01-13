@@ -3,10 +3,11 @@ h1 {text-align: center;
      font-size: 40px;
      font-family: Georgia;}
 h2 {text-align: center;
-     color: rgb(216, 216, 216);
-     font-family: Verdana,;
+     color: rgb(241, 241, 241);
+     font-family: Verdana;
      font-weight: lighter;
-    background-color: rgb(73, 73, 73);}
+     font-size: 23px;
+    background-color: rgb(71, 57, 90);}
 p {font-family: Verdana;
     font-size: 15px;}
 li {font-family: Verdana;
